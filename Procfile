@@ -1,1 +1,1 @@
-worker: python 
+worker: python send_whatsapp.py
