@@ -1,0 +1,7 @@
+requests==2.31.0
+jsons==1.6.3
+pandas==2.1.4
+times==0.7
+
+
+
